@@ -9,16 +9,15 @@ To write a Python program that defines a **lambda function** which takes two arg
 3. Call the function with the user inputs and print the result.
 
 ## 🧾 Program
-```
-a = int(input())
-b = int(input())
-f = lambda x, y: x + y
-result = f(a, b)
-print("Sum:", result)
-```
+~~~
+a=int(input()) 
+b=int(input()) 
+f=lambda a,b: a+b 
+print(f(a,b))
+~~~
+
 ## Output
-<img width="396" height="210" alt="image" src="https://github.com/user-attachments/assets/5c979ce0-c670-4b74-abb9-3cb8d2f000ea" />
+<img width="573" height="234" alt="image" src="https://github.com/user-attachments/assets/9fb70473-c44e-4890-983e-f28eadf75407" />
 
 ## Result
-
-Thus, the Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is executed successfully and the result is obtained.
+Thus, the program has been successfully executed.
